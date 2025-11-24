@@ -1,7 +1,7 @@
 {
     "prompt": "A person speaks, his movements are natural",
-    "cond_video": "examples/single/ref_video.mp4",
+    "cond_video": "examples/single/v3.mp4",
     "cond_audio": {
-        "person1": "examples/single/1.wav"
+        "person1": "examples/single/g3.mp3"
     }
 }
