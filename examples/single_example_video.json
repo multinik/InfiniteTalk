@@ -1,5 +1,5 @@
 {
-    "prompt": "A man is talking",
+    "prompt": "A person speaks, his movements are natural",
     "cond_video": "examples/single/ref_video.mp4",
     "cond_audio": {
         "person1": "examples/single/1.wav"
